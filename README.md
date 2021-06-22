@@ -1,8 +1,8 @@
-# Penguins web app deployed on Heroku
+# Boston Housing web app deployed on Heroku
 
 The deployed web app is live at https://penguins-species-predict.herokuapp.com/
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
+This web app predicts the price of houses in Boston (Boston Housign Dataset)
 
 The web app was built in Python using the following libraries:
 * streamlit
